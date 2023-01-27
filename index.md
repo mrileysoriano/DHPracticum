@@ -28,5 +28,7 @@ Below is the abstract from the conference presentation.
 ## My links 
 
 [Personal Website](michaelsoriano.net)
+
 Here is a nifty link to [Google](google.com)
+
 Also, if for whatever reason you're looking for [Youtube](https://www.youtube.com/watch?v=dQw4w9WgXcQ), you can find it by clicking on that nifty little hyperlink!
