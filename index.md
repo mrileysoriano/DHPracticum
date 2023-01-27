@@ -11,7 +11,7 @@ Hi there! My name is Michael Soriano and I am a 2nd-year PhD student at the Univ
 
 ## Contact information
 
-E-mail: mrs319@miami.edu
+E-mail: [mrs319@miami.edu](mrs319@miami.edu)
 
 Phone: Private
 
