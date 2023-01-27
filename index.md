@@ -19,7 +19,7 @@ PhD, Literary Studies. University of Miami, 2027 (expected)
 
 ## Publications 
 
-No current publications but I have presented a talk that will, hopefully, be turning into a book chapter soon! The [conference presentation](https://michaelsoriano.net/talks/2022-11-05-talk-1) on [personal website](michaelsoriano.net)
+No current publications but I have presented a talk that will, hopefully, be turning into a book chapter soon! The [conference presentation](https://michaelsoriano.net/talks/2022-11-05-talk-1) is available on my [personal website](michaelsoriano.net)
 
 Below is the abstract from the conference presentation. 
 
