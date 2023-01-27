@@ -15,6 +15,7 @@ Office: Ashe Building
 ## Education 
 
 BA, English Literature. Florida International University, 2020.
+
 PhD, Literary Studies. University of Miami, 2027 (expected)
 
 ## Publications 
