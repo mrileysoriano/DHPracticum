@@ -1,3 +1,8 @@
+---
+layout: default
+title: Michael Riley Soriano
+---
+
 # Hello Word
 
 ## About me 
